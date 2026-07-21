@@ -134,7 +134,7 @@ I'm open to bug bounty collaborations, CTF teams, and security-focused roles. Fe
 
 <div align="center">
 
-<a href="https://abozanona.github.io/pacman-contribution-graph/"><img src="https://img.shields.io/badge/Play-Pac--Man%20Contribution%20Game-FFCC00?style=for-the-badge&logo=pacman&logoColor=black" /></a>
+<a href="https://abozanona.github.io/pacman-contribution-graph/"><img src="https://github.com/Shreyaskalyani/ShreyasKalyani/blob/main/acrade-contributions.svg" /></a>
 
 </div>
 
