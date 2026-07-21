@@ -113,26 +113,6 @@ Personal portfolio site.
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Shreyaskalyani/Shreyaskalyani/output/github-contribution-grid-snake.svg" width="100%" alt="Contribution snake" />
-
-</div>
-
-<sub>A snake that eats through my commit graph, generated automatically from real contribution activity. (Renders once the GitHub Action below is set up — see note.)</sub>
-
-<br><br>
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Shreyaskalyani/Shreyaskalyani/output/github-contribution-grid-snake-3d.svg" width="100%" alt="3D contribution calendar" />
-
-</div>
-
-<sub>My commit history as a 3D calendar, regenerated daily. (Also needs its own GitHub Action — see note.)</sub>
-
-<br><br>
-
-<div align="center">
-
 <img src="https://streak-stats.demolab.com/?user=Shreyaskalyani&background=ffffff&border=e1e4e8&ring=2C5F7C&fire=2C5F7C&currStreakNum=2C5F7C&sideNums=2C5F7C&currStreakLabel=2C5F7C&sideLabels=586069&dates=8b949e&hide_border=false"/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shreyaskalyani&theme=minimal&hide_border=true"/>
@@ -149,6 +129,16 @@ I'm open to bug bounty collaborations, CTF teams, and security-focused roles. Fe
   <a href="mailto:shreyaskalyani53@gmail.com"><img src="https://img.shields.io/badge/Send%20a%20Message-2C5F7C?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/shreyas-kalyani-cybersecurity"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-2C5F7C?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
+
+<br>
+
+<div align="center">
+
+<a href="https://abozanona.github.io/pacman-contribution-graph/"><img src="https://img.shields.io/badge/Play-Pac--Man%20Contribution%20Game-FFCC00?style=for-the-badge&logo=pacman&logoColor=black" /></a>
+
+</div>
+
+<p align="center"><sub>A quick break for anyone browsing this profile — a live, playable game built on the same idea as a GitHub contribution graph.</sub></p>
 
 <br>
 
