@@ -109,15 +109,6 @@ Personal portfolio site.
 
 <br>
 
-## GitHub Activity
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=Shreyaskalyani&background=ffffff&border=e1e4e8&ring=2C5F7C&fire=2C5F7C&currStreakNum=2C5F7C&sideNums=2C5F7C&currStreakLabel=2C5F7C&sideLabels=586069&dates=8b949e&hide_border=false"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shreyaskalyani&theme=minimal&hide_border=true"/>
-
-</div>
 
 <br>
 
